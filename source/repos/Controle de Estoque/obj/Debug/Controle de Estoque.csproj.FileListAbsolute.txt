@@ -1,0 +1,12 @@
+C:\Users\iguin\source\repos\Controle de Estoque\bin\Debug\Controle de Estoque.exe.config
+C:\Users\iguin\source\repos\Controle de Estoque\bin\Debug\Controle de Estoque.exe
+C:\Users\iguin\source\repos\Controle de Estoque\bin\Debug\Controle de Estoque.pdb
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.AssemblyReference.cache
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.GenerateResource.cache
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle de Estoque.exe
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle de Estoque.pdb
+C:\Users\iguin\source\repos\Controle de Estoque\obj\Debug\Controle_de_Estoque.loguin.resources
